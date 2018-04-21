@@ -99,3 +99,10 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# added by Vasil
+spring-2018/labs/notMNIST_large/
+spring-2018/labs/notMNIST_small/
+*.gz
+*.pickle
+*events*
